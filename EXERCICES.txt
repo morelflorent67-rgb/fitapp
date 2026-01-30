@@ -1,0 +1,242 @@
+[
+  {
+    "id": "h1_force_dc",
+    "nom": "Développé couché haltères",
+    "categorie": "Force / Poussée",
+    "record_2024": "32 kg par main (4x8)",
+    "video": "https://www.youtube.com/watch?v=vj2w851ZpEE",
+    "consigne": "Trajectoire stable, contrôle de la descente."
+  },
+  {
+    "id": "h1_force_traction",
+    "nom": "Traction lestée",
+    "categorie": "Force / Tirage",
+    "record_2024": "+20 kg (3x6)",
+    "video": "https://www.youtube.com/watch?v=mr74_9VkeOk",
+    "consigne": "Menton au dessus de la barre, bras tendus en bas."
+  },
+  {
+    "id": "h1_calis_mu",
+    "nom": "Muscle up aux anneaux",
+    "categorie": "Calisthénie / Skill",
+    "record_2024": "Assisté pieds au sol (4x3)",
+    "video": "https://www.youtube.com/watch?v=pXiGenBKjWk",
+    "consigne": "Transition explosive, pieds sur pointe pour durcir."
+  },
+  {
+    "id": "h1_calis_dips_r",
+    "nom": "Dips sur anneaux",
+    "categorie": "Force / Calisthénie",
+    "record_2024": "Poids de corps (4x12)",
+    "video": "https://www.youtube.com/watch?v=Ikeg_v5fvz4",
+    "consigne": "Épaules doivent toucher les anneaux."
+  },
+  {
+    "id": "h1_calis_hspu",
+    "nom": "HSPU contre mur",
+    "categorie": "Calisthénie / Épaules",
+    "record_2024": "5 répétitions propres",
+    "video": "https://www.youtube.com/watch?v=DBv3BvBS4H8",
+    "consigne": "Corps gainé, ne pas cambrer le dos."
+  },
+  {
+    "id": "h2_force_dips_l",
+    "nom": "Dips lestés (Barre)",
+    "categorie": "Force / Poussée",
+    "record_2024": "+47,5 kg (Série de 6)",
+    "video": "https://www.youtube.com/watch?v=vX_X6Ssh3-c",
+    "consigne": "Descente profonde, jonction poitrine/abdos."
+  },
+  {
+    "id": "h2_hyper_dm",
+    "nom": "Développé militaire haltères",
+    "categorie": "Force / Épaules",
+    "record_2024": "24 kg par main (3x8)",
+    "video": "https://www.youtube.com/watch?v=qEwKCR5JCog",
+    "consigne": "Sur banc, extension complète des bras."
+  },
+  {
+    "id": "h2_hyper_row_h",
+    "nom": "Tirage horizontal Technogym",
+    "categorie": "Hypertrophie / Tirage",
+    "record_2024": "60 kg par bras (Unilatéral)",
+    "video": "https://www.youtube.com/watch?v=vVnK7vK9N30",
+    "consigne": "Méthode 3D-3G (Alterné), focus sur le dos."
+  },
+  {
+    "id": "h2_calis_flag",
+    "nom": "Drapeau (Human Flag) 45°",
+    "categorie": "Skill / Gainage",
+    "record_2024": "8 sec de maintien par côté",
+    "video": "https://www.youtube.com/watch?v=vS_oA1S7_4k",
+    "consigne": "Prise de barre solide, bras tendus."
+  },
+  {
+    "id": "h3_sante_scap",
+    "nom": "Traction scapulaire",
+    "categorie": "Santé / Postural",
+    "record_2024": "10 répétitions (2 séries)",
+    "video": "https://www.youtube.com/watch?v=-ZIpSoTRsuE",
+    "consigne": "Bras tendus, bouger uniquement les omoplates."
+  },
+  {
+    "id": "h3_sante_lu",
+    "nom": "Cercle de Lu",
+    "categorie": "Mobilité / Épaules",
+    "record_2024": "2,5 kg par main (15 reps)",
+    "video": "https://www.youtube.com/watch?v=bcd86P6P_c8",
+    "consigne": "Mouvement fluide, amplitude maximale."
+  },
+  {
+    "id": "h3_iso_tricep",
+    "nom": "Extension triceps poulie",
+    "categorie": "Isolation / Bras",
+    "record_2024": "15 kg (3x10)",
+    "video": "https://www.youtube.com/watch?v=3Hxs9xZQm7A",
+    "consigne": "Explosif en poussée, 2s retenue descente."
+  },
+  {
+    "id": "h3_iso_bicep",
+    "nom": "Biceps curl poulie",
+    "categorie": "Isolation / Bras",
+    "record_2024": "22,5 kg (3x10)",
+    "video": "https://www.youtube.com/watch?v=AsAVbBko26o",
+    "consigne": "Ne pas balancer le corps, coudes fixes."
+  },
+  {
+    "id": "b_force_deadlift",
+    "nom": "Hexbar Deadlift",
+    "categorie": "Bas du corps / Force",
+    "record_2024": "85 kg (4x6)",
+    "video": "https://www.youtube.com/watch?v=6Q_z9D-tLbg",
+    "consigne": "Dos plat, poussée dans les talons."
+  },
+  {
+    "id": "b_force_leg_p",
+    "nom": "Leg Press Linéaire",
+    "categorie": "Bas du corps / Force",
+    "record_2024": "70 kg (100 répétitions)",
+    "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+    "consigne": "Ne pas verrouiller les genoux en haut."
+  },
+  {
+    "id": "b_force_hip_t",
+    "nom": "Hip Thrust machine",
+    "categorie": "Bas du corps / Fessiers",
+    "record_2024": "75 kg par côté (4x8)",
+    "video": "https://www.youtube.com/watch?v=9S_X3Cofpks",
+    "consigne": "Forte contraction en haut du mouvement."
+  },
+  {
+    "id": "b_iso_fentes",
+    "nom": "Fentes marchées haltères",
+    "categorie": "Bas du corps / Volume",
+    "record_2024": "10 kg par main (50 reps)",
+    "video": "https://www.youtube.com/watch?v=DlhojghkaQ0",
+    "consigne": "Genou arrière frôle le sol."
+  },
+  {
+    "id": "b_force_rdl",
+    "nom": "Deadlift roumain (RDL)",
+    "categorie": "Bas du corps / Ischios",
+    "record_2024": "60 kg (4x10)",
+    "video": "https://www.youtube.com/watch?v=JCXUYuzwvgQ",
+    "consigne": "Sentir l'étirement, barre contre les cuisses."
+  },
+  {
+    "id": "b_iso_bulgarian",
+    "nom": "Bulgarian Split Squat",
+    "categorie": "Bas du corps / Isolation",
+    "record_2024": "8 kg par main (3x12)",
+    "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+    "consigne": "Pied arrière surélevé, focus fessier."
+  },
+  {
+    "id": "b_gain_knee_r",
+    "nom": "Montée de genoux à la barre",
+    "categorie": "Abdos / Gainage",
+    "record_2024": "4x20 répétitions",
+    "video": "https://www.youtube.com/watch?v=RD_A-Z15ErY",
+    "consigne": "Ne pas balancer, monter les genoux haut."
+  },
+  {
+    "id": "b_sante_bird",
+    "nom": "Bird Dog",
+    "categorie": "Santé / Gainage",
+    "record_2024": "5 reps / côté (5s maintien)",
+    "video": "https://www.youtube.com/watch?v=wiFNA3sqjCA",
+    "consigne": "Équilibre et stabilité lombaire."
+  },
+  {
+    "id": "h3_iso_lateral",
+    "nom": "Élévations latérales haltères",
+    "categorie": "Hypertrophie / Épaules",
+    "record_2024": "10 kg (3x10)",
+    "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+    "consigne": "Bras légèrement fléchis, monter aux épaules."
+  },
+  {
+    "id": "h3_hyper_row_v",
+    "nom": "Tirage vertical supination",
+    "categorie": "Hypertrophie / Tirage",
+    "record_2024": "60 kg (3x10)",
+    "video": "https://www.youtube.com/watch?v=mr74_9VkeOk",
+    "consigne": "Poitrine vers le haut, coudes vers le bas."
+  },
+  {
+    "id": "h2_hyper_pike",
+    "nom": "Pike Push up surélevé",
+    "categorie": "Calisthénie / Épaules",
+    "record_2024": "3x8 répétitions",
+    "video": "https://www.youtube.com/watch?v=spOsLWBIP6g",
+    "consigne": "Pieds sur box, tête vers l'avant."
+  },
+  {
+    "id": "h2_iso_oiseau",
+    "nom": "Oiseau haltères",
+    "categorie": "Hypertrophie / Dos",
+    "record_2024": "8 kg (3x12)",
+    "video": "https://www.youtube.com/watch?v=H530fW3KWfk",
+    "consigne": "Focus sur l'arrière de l'épaule."
+  },
+  {
+    "id": "b_iso_ext",
+    "nom": "Leg Extension",
+    "categorie": "Bas du corps / Isolation",
+    "record_2024": "80 kg (3x15)",
+    "video": "https://www.youtube.com/watch?v=m0FOpMEgero",
+    "consigne": "Contraction maximale des quadriceps."
+  },
+  {
+    "id": "b_iso_curl",
+    "nom": "Leg Curl (Prone)",
+    "categorie": "Bas du corps / Isolation",
+    "record_2024": "45 kg (3x15)",
+    "video": "https://www.youtube.com/watch?v=1Tq3QdY_0T8",
+    "consigne": "Garder le bassin plaqué au banc."
+  },
+  {
+    "id": "h1_calis_traction_exp",
+    "nom": "Traction explosive",
+    "categorie": "Calisthénie / Puissance",
+    "record_2024": "5 séries de 3 reps",
+    "video": "https://www.youtube.com/watch?v=rR_T0M8I-2U",
+    "consigne": "Monter le plus haut possible rapidement."
+  },
+  {
+    "id": "h2_iso_menton",
+    "nom": "Tirage menton barre EZ",
+    "categorie": "Force / Épaules",
+    "record_2024": "30 kg (3x12)",
+    "video": "https://www.youtube.com/watch?v=0w6Wp_zR-w0",
+    "consigne": "Coudes plus hauts que les poignets."
+  },
+  {
+    "id": "b_cardio_tapis",
+    "nom": "Tapis 15% Pente",
+    "categorie": "Cardio / Bas",
+    "record_2024": "5 km/h pendant 7 min",
+    "video": "https://www.youtube.com/watch?v=kIvFkHdIpqI",
+    "consigne": "Marche active, ne pas se tenir aux barres."
+  }
+]
