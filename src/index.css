@@ -87,6 +87,20 @@
   body {
     @apply bg-background text-foreground font-sans antialiased;
     font-family: 'Inter', system-ui, sans-serif;
+    /* Safe area pour iPhone Dynamic Island */
+    padding-top: env(safe-area-inset-top);
+  }
+
+  /* Bandeau de couleur derrière le Dynamic Island */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: env(safe-area-inset-top);
+    background: hsl(var(--background));
+    z-index: 9999;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -95,6 +109,15 @@
 }
 
 @layer utilities {
+  /* Safe areas pour iPhone */
+  .safe-area-top {
+    padding-top: env(safe-area-inset-top);
+  }
+
+  .safe-area-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
   .text-glow {
     text-shadow: 0 0 20px hsl(0 85% 55% / 0.5);
   }
